@@ -1,0 +1,14 @@
+# a11qnsxx-user 11 RP1A.200720.012 A115FXXU2BUK2 release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: a11q
+- flavor: a11qnsxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A115FXXU2BUK2
+- tags: release-keys
+- fingerprint: samsung/a11qnsxx/a11q:11/RP1A.200720.012/A115FXXU2BUK2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a11qnsxx-user-11-RP1A.200720.012-A115FXXU2BUK2-release-keys
+- repo: samsung_a11q_dump
